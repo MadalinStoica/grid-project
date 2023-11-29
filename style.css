@@ -213,6 +213,8 @@ body {
   }
   .project .overlay {
     font-size: 18px;
-    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
